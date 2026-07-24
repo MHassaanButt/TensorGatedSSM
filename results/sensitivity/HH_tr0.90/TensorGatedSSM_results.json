@@ -1,0 +1,109 @@
+{
+  "model": "TensorGatedSSM",
+  "dataset": "HH",
+  "seeds": [
+    345
+  ],
+  "class_names": [
+    "Red roof",
+    "Road",
+    "Bare soil",
+    "Cotton",
+    "Cotton firewood",
+    "Rape",
+    "Chinese cabbage",
+    "Pakchoi",
+    "Cabbage",
+    "Tuber mustard",
+    "Brassica parachinensis",
+    "Brassica chinensis",
+    "Small Brassica chinensis",
+    "Lactuca sativa",
+    "Celtuce",
+    "Film covered lettuce",
+    "Romaine lettuce",
+    "Carrot",
+    "White radish",
+    "Garlic sprout",
+    "Broad bean",
+    "Tree"
+  ],
+  "per_class_seeds": [
+    [
+      99.21658621508269
+    ],
+    [
+      94.71686175260994
+    ],
+    [
+      99.02235348031977
+    ],
+    [
+      99.96053267282267
+    ],
+    [
+      97.30164403145103
+    ],
+    [
+      99.67332485474178
+    ],
+    [
+      99.20250772138478
+    ],
+    [
+      97.01288024116195
+    ],
+    [
+      99.32217315394885
+    ],
+    [
+      98.59255939040789
+    ],
+    [
+      98.0732371633209
+    ],
+    [
+      96.67452537535675
+    ],
+    [
+      97.7191943127962
+    ],
+    [
+      97.85498489425983
+    ],
+    [
+      96.67405764966742
+    ],
+    [
+      99.49510403916769
+    ],
+    [
+      98.96640826873386
+    ],
+    [
+      97.09844559585493
+    ],
+    [
+      97.23249585512052
+    ],
+    [
+      97.99171182658591
+    ],
+    [
+      97.57322175732217
+    ],
+    [
+      96.75467546754676
+    ]
+  ],
+  "OA_seeds": [
+    99.14718525159184
+  ],
+  "AA_seeds": [
+    98.0058857145302
+  ],
+  "Kappa_seeds": [
+    98.92211410701984
+  ],
+  "parameters": 62774
+}

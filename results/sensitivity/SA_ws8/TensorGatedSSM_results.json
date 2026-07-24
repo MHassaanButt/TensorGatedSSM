@@ -1,0 +1,85 @@
+{
+  "model": "TensorGatedSSM",
+  "dataset": "SA",
+  "seeds": [
+    345
+  ],
+  "class_names": [
+    "Weeds_1",
+    "Weeds_2",
+    "Fallow",
+    "Fallow_rough_plow",
+    "Fallow_smooth",
+    "Stubble",
+    "Celery",
+    "Grapes_untrained",
+    "Soil_vinyard_develop",
+    "Corn_Weeds",
+    "Lettuce_4wk",
+    "Lettuce_5wk",
+    "Lettuce_6wk",
+    "Lettuce_7wk",
+    "Vinyard_untrained",
+    "Vinyard_trellis"
+  ],
+  "per_class_seeds": [
+    [
+      100.0
+    ],
+    [
+      100.0
+    ],
+    [
+      99.60652051714446
+    ],
+    [
+      99.04382470119522
+    ],
+    [
+      99.50207468879668
+    ],
+    [
+      99.97193376368229
+    ],
+    [
+      99.9689537410742
+    ],
+    [
+      97.69321766561514
+    ],
+    [
+      100.0
+    ],
+    [
+      99.66101694915255
+    ],
+    [
+      100.0
+    ],
+    [
+      100.0
+    ],
+    [
+      100.0
+    ],
+    [
+      99.5846313603323
+    ],
+    [
+      99.4802018040055
+    ],
+    [
+      99.0159901599016
+    ]
+  ],
+  "OA_seeds": [
+    99.32056571627975
+  ],
+  "AA_seeds": [
+    99.59552283443125
+  ],
+  "Kappa_seeds": [
+    99.2437161285116
+  ],
+  "parameters": 62000
+}

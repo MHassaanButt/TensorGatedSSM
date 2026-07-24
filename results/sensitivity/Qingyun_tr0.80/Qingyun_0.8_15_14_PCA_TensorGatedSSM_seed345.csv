@@ -1,0 +1,32 @@
+2796.3052768707275 Tr_Time
+189.18195724487305 Te_Time
+60710 Parameters
+NA FLOPs
+98.95796769943269 Kappa accuracy (%)
+99.21260873264696 Overall accuracy (%)
+98.5474850027092 Average accuracy (%)
+99.2104
+99.8545
+94.4313
+99.5009
+99.6406
+98.6472
+                    precision    recall  f1-score   support
+
+             Trees       0.99      0.99      0.99    222520
+ Concrete building       1.00      1.00      1.00    143610
+               Car       0.96      0.94      0.95     11026
+ Ironhide building       1.00      1.00      1.00      7814
+Plastic playground       1.00      1.00      1.00    174188
+      Asphalt road       0.99      0.99      0.99    204757
+
+          accuracy                           0.99    763915
+         macro avg       0.99      0.99      0.99    763915
+      weighted avg       0.99      0.99      0.99    763915
+
+[[220763    314     83      1    266   1093]
+ [    76 143401      9      4     47     73]
+ [    64     12  10412      0     38    500]
+ [     0     24      0   7775     13      2]
+ [   327    105      4      6 173562    184]
+ [  1967    175    390      0    238 201987]]

@@ -1,0 +1,45 @@
+{
+  "model": "TensorGatedSSM",
+  "dataset": "Qingyun",
+  "seeds": [
+    345
+  ],
+  "class_names": [
+    "Trees",
+    "Concrete building",
+    "Car",
+    "Ironhide building",
+    "Plastic playground",
+    "Asphalt road"
+  ],
+  "per_class_seeds": [
+    [
+      99.2104080532087
+    ],
+    [
+      99.8544669591254
+    ],
+    [
+      94.43134409577362
+    ],
+    [
+      99.50089582800102
+    ],
+    [
+      99.64061818265323
+    ],
+    [
+      98.64717689749313
+    ]
+  ],
+  "OA_seeds": [
+    99.21260873264696
+  ],
+  "AA_seeds": [
+    98.5474850027092
+  ],
+  "Kappa_seeds": [
+    98.95796769943269
+  ],
+  "parameters": 60710
+}

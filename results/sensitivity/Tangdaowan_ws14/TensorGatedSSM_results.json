@@ -1,0 +1,93 @@
+{
+  "model": "TensorGatedSSM",
+  "dataset": "Tangdaowan",
+  "seeds": [
+    345
+  ],
+  "class_names": [
+    "Rubber track",
+    "Flaggingv",
+    "Sandy",
+    "Asphalt",
+    "Boardwalk",
+    "Rocky shallows",
+    "Grassland",
+    "Bulrush",
+    "Gravel road",
+    "Ligustrum vicaryi",
+    "Coniferous pine",
+    "Spiraea",
+    "Bare soil",
+    "Buxus sinica",
+    "Photinia serrulata",
+    "Populus",
+    "Ulmus pumila L",
+    "Seawater"
+  ],
+  "per_class_seeds": [
+    [
+      99.892537826685
+    ],
+    [
+      99.64398575943038
+    ],
+    [
+      99.83351287826854
+    ],
+    [
+      98.78435034144377
+    ],
+    [
+      99.16467780429595
+    ],
+    [
+      94.98997396223027
+    ],
+    [
+      94.44706622620733
+    ],
+    [
+      99.98786365685358
+    ],
+    [
+      100.0
+    ],
+    [
+      99.12772585669782
+    ],
+    [
+      98.9430724152365
+    ],
+    [
+      100.0
+    ],
+    [
+      99.5385629531971
+    ],
+    [
+      98.61982434127981
+    ],
+    [
+      97.53526707877636
+    ],
+    [
+      99.71059977604996
+    ],
+    [
+      98.50374064837905
+    ],
+    [
+      100.0
+    ]
+  ],
+  "OA_seeds": [
+    99.13023543249008
+  ],
+  "AA_seeds": [
+    98.81793119583507
+  ],
+  "Kappa_seeds": [
+    99.00997076872282
+  ],
+  "parameters": 62258
+}

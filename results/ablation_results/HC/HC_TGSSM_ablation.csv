@@ -1,0 +1,6 @@
+Variant,OA_mean,OA_std,AA_mean,AA_std,Kappa_mean,Kappa_std
+Full TensorGated-SSM,98.2407,0.1017,96.7378,0.4845,97.9406,0.1194
+w/o Feature Enhancement,95.7059,0.1753,91.5950,0.6004,94.9758,0.2034
+Spatial tokens only,98.7197,0.1550,97.0590,0.4709,98.5016,0.1814
+Spectral tokens only,98.6615,0.2081,97.2196,0.6163,98.4335,0.2435
+SSM $\to$ mean-pool,99.1939,0.0523,98.5396,0.0739,99.0568,0.0613
