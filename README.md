@@ -1,8 +1,7 @@
 # TensorGated-SSM
 
 Reproducibility code and results for the paper *TensorGated State-Space Model for
-Spatial–Spectral Representation Learning in Hyperspectral Image Classification*
-(under review, *Scientific Reports*).
+Spatial–Spectral Representation Learning in Hyperspectral Image Classification*.
 
 This repository contains a **self-contained Jupyter notebook** with the complete model,
 training and evaluation code, together with the **numerical results** reported in the paper.
@@ -45,14 +44,4 @@ jupyter notebook TensorGatedSSM_reproduce.ipynb
 Set the dataset at the top of the notebook and run all cells. The datasets are public;
 download links are given in the paper's Data Availability statement.
 
-## Citation
 
-```bibtex
-@article{tensorgatedssm,
-  title   = {TensorGated State-Space Model for Spatial--Spectral Representation
-             Learning in Hyperspectral Image Classification},
-  journal = {Scientific Reports},
-  year    = {2025},
-  note    = {Under review}
-}
-```
